@@ -6,5 +6,4 @@ public class BankasDati {
     public int secirityNumber = 111;
 
 
-
 }
