@@ -31,3 +31,4 @@ public class Uzdevums2diena{
 
 
 }
+//switch vienm'er beidzas ar default
