@@ -12,6 +12,8 @@ public class UzdevumsRandom {
         System.out.println(skaitlis1);
         System.out.println(skaitlis2);
         System.out.println(skaitlis3);
+
+        System.out.println(skaitlis1 + skaitlis2 + skaitlis3 );
     }
 
 
